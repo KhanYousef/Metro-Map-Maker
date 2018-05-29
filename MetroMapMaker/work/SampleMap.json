@@ -1,0 +1,25 @@
+
+{
+    "background_color":{
+        "red":1.0,
+        "green":0.4000000059604645,
+        "blue":0.4000000059604645,
+        "alpha":1.0
+    },
+    "lines":[
+        {
+            "name":"fvfdsg",
+            "circular":false,
+            "fill_color":{
+                "red":0.6000000238418579,
+                "green":0.501960813999176,
+                "blue":0.9019607901573181,
+                "alpha":1.0
+            },
+            "station_names":[
+            ]
+        }
+    ],
+    "stations":[
+    ]
+}

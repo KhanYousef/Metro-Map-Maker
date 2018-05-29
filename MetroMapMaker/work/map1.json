@@ -1,0 +1,30 @@
+
+{
+    "background_color":{
+        "red":0.6000000238418579,
+        "green":0.0,
+        "blue":0.0,
+        "alpha":1.0
+    },
+    "lines":[
+    ],
+    "stations":[
+        {
+            "name":"sdfsdf",
+            "circular":false,
+            "fill_color":{
+                "red":0.800000011920929,
+                "green":0.6000000238418579,
+                "blue":0.800000011920929,
+                "alpha":1.0
+            },
+            "station_names":[
+            ]
+        },
+        {
+            "name":"s1",
+            "x":713.0,
+            "y":367.0
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+
+{
+    "background_color":{
+        "red":0.501960813999176,
+        "green":0.3019607961177826,
+        "blue":0.501960813999176,
+        "alpha":1.0
+    },
+    "lines":[
+        {
+            "name":"ewew",
+            "circular":false,
+            "fill_color":{
+                "red":0.20000000298023224,
+                "green":0.3019607961177826,
+                "blue":0.7019608020782471,
+                "alpha":1.0
+            },
+            "station_names":[
+                {
+                    "station_names":"s1"
+                }
+            ]
+        }
+    ],
+    "stations":[
+        {
+            "name":"s1",
+            "x":546.0,
+            "y":393.0
+        }
+    ]
+}
